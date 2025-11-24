@@ -32,9 +32,14 @@ Frontend Developer with a solid foundation in JavaScript, TypeScript, React, and
 
 ## My latest projects
 
-[<img width="200" height="300" alt="React landing" title="React landing" src="https://github.com/user-attachments/assets/d065a8a2-6a09-4e26-ac1f-b1caaf7149cd" />
+[<img width="200" height="300" alt="React/next" title="Adaptive, SEO optimized landing page on React/next" src="https://github.com/user-attachments/assets/d065a8a2-6a09-4e26-ac1f-b1caaf7149cd" />
 ](https://aus-project-theta.vercel.app/)
-[<img width="200" height="300" alt="GraphQL" title="GraphQL" src="https://github.com/user-attachments/assets/89e61240-c5a5-49ab-a5ad-9fe238f25224" />](https://lucent-bunny-5f48a0.netlify.app/)
+[<img width="200" height="300" alt="React/GraphQL" title="React/GraphQL app best on desktop and tablet screens" src="https://github.com/user-attachments/assets/89e61240-c5a5-49ab-a5ad-9fe238f25224" />](https://lucent-bunny-5f48a0.netlify.app/)
+[<img width="200" height="300" alt="React/next" title="Adaptive, SEO optimized landing page on React/next" src="https://github.com/user-attachments/assets/6f30619d-c442-4036-84ff-e0b694afd757" />]([https://lucent-bunny-5f48a0.netlify.app/](https://glowing-kheer-49d744.netlify.app/))
+
+
+
+
 
 
 ### Codewars
