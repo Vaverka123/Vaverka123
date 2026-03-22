@@ -1,5 +1,5 @@
 # Hi there 👋
-Frontend Developer with a solid foundation in JavaScript, TypeScript and React, built through an intensive 1-year specialized course from [RSSchool](https://rs.school/courses), 2+ years of commercial experience and continuous self-development, with strong attention to detail and a proven ability to translate design into high-quality, performant code. Eager to join a collaborative team.
+Frontend Developer with a solid foundation in JavaScript, TypeScript and React with strong attention to detail and a proven ability to translate design into high-quality, performant code. 
 
 ### 📫 How to reach me: maslavavera@gmail.com [<img width="90" height="30" alt="React landing" title="React landing" src="https://github.com/user-attachments/assets/18fa6c97-86ec-48ad-8e49-c7b2488ae647" />](https://www.linkedin.com/in/vera-maslava-589765124/)
 
