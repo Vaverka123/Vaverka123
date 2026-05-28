@@ -48,8 +48,8 @@ Frontend Developer with a solid foundation in JavaScript, TypeScript and React w
 ## Language Proficiency
 [English    C1 Fluent 
 <img width="21" height="21" alt="ef-logo" src="https://github.com/user-attachments/assets/8a54961e-358a-4c49-ab59-05d2313ce3f6"  title="certificate 70/100">](https://cert.efset.org/en/3Jbp8U)\
-German     C1 Proficient\
-[Polish     C1 Proficient <img width="21" height="21" alt="pol" src="https://github.com/user-attachments/assets/fe95e669-7062-475b-b75e-e618d4af9c1b" title="certificate B1 91%"/>](https://certyfikatpolski.pl)\
+German     B2 Proficient\
+[Polish     B1 Proficient <img width="21" height="21" alt="pol" src="https://github.com/user-attachments/assets/fe95e669-7062-475b-b75e-e618d4af9c1b" title="certificate B1 91%"/>](https://certyfikatpolski.pl)\
 Belarusian C2 Native\
 Russian    C2 Native
 
